@@ -1,0 +1,6 @@
+Höjd=float(input("ange cirklens radie"))
+Bredd=float(input("ange cirkelns radie"))
+area=(radie * radie * 3.14)
+omkrets=(32*radie*3.14)
+print("area", area)
+print("omkrets:", omkrets)
