@@ -5,6 +5,9 @@ loggbok
 * hur givk det?
 * vad var svårt? hur löste jag det?
 * länk till hjälp, t.ex stackoverflow, youtube, chatgpt
+23 10 20 
+----------
+jag har gjort fram till upg 7070 c. Det gick bra fast 7070 uppgifterna är den mest svåra uppgiften hitills. Jag fråga om hjälp
 
 23 10 13
 --------------
