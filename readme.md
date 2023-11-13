@@ -5,6 +5,13 @@ loggbok
 * hur givk det?
 * vad var svårt? hur löste jag det?
 * länk till hjälp, t.ex stackoverflow, youtube, chatgpt
+23 11 10
+-----------
+jag gjorde flödesdiagram av kod och även tvärtom men det var enklare att göra diagram av kod än tvärtom.
+
+23 10 27
+------------
+jag har gjort klart uppgift 7073 1 och 2. löste även 7070 c 7073 c verkar svår och har fastnat på den.
 23 10 20 
 ----------
 jag har gjort fram till upg 7070 c. Det gick bra fast 7070 uppgifterna är den mest svåra uppgiften hitills. Jag fråga om hjälp

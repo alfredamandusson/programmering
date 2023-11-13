@@ -14,7 +14,7 @@
         }
 
         header {
-            background-color: #1a237e;
+            background-color: #02073d;
             color: #fff;
             padding: 10px;
             text-align: center;
@@ -27,7 +27,7 @@
         }
 
         h1, h2 {
-            color: #1a237e;
+            color: #060c4f;
         }
 
         p {
@@ -38,11 +38,11 @@
 <body>
     <header>
         <h1>SwedeWeb</h1>
-        <p>Mera än bara webbutveckling</p>
+        <p>Mera än bara E-handel</p>
     </header>
     <section>
         <h2>Välkommen till SwedeWeb</h2>
-        <p>Vi är ett företag som fokuserar på att skapa stilrena och användarvänliga webbplatser. Hos oss handlar det inte bara om försäljning, utan om att skapa en online närvaro som berättar er historia.</p>
+        <p>Vi är ett företag som fokuserar på att göra kundens tid på webbplatsen så bekväm som möjligt. Hos oss handlar det inte bara om försäljning, utan om att skapa en online närvaro som berättar er historia.</p>
         <p>Kontakta oss idag för att lära dig mer om vad vi kan göra för dig.</p>
     </section>
 </body>
