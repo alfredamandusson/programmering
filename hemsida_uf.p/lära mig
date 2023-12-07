@@ -1,49 +1,50 @@
 <!DOCTYPE html>
-<html lang="sv">
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SwedeWeb - Mer om Oss</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: #02073d;
-            color: #fff;
-            padding: 10px;
-            text-align: center;
-        }
-
-        section {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-
-        h1, h2 {
-            color: #060c4f;
-        }
-
-        p {
-            line-height: 1.6;
-        }
-    </style>
+    <title>SwedeWeb - UF Företag</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+
     <header>
         <h1>SwedeWeb</h1>
-        <p>Mera än bara E-handel</p>
+        <p>Ett UF-företag</p>
     </header>
-    <section>
+
+    <section id="about">
         <h2>Välkommen till SwedeWeb</h2>
-        <p>Vi är ett företag som fokuserar på att göra kundens tid på webbplatsen så bekväm som möjligt. Hos oss handlar det inte bara om försäljning, utan om att skapa en online närvaro som berättar er historia.</p>
-        <p>Kontakta oss idag för att lära dig mer om vad vi kan göra för dig.</p>
+        <p>SwedeWeb är ett UF-företag drivet av Alfred Lucas och Joel. Vi strävar efter att erbjuda högkvalitativa produkter och enastående kundsupport.</p>
     </section>
+
+    <section id="priorities">
+        <h2>Våra Prioriteringar</h2>
+        <p>Våra främsta prioriteringar på SwedeWeb är:</p>
+        <ul>
+            <li>Bra kundsupport</li>
+            <li>Högkvalitativa produkter</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Kontakta Oss</h2>
+        <p>Har du frågor eller behöver support? Kontakta oss gärna!</p>
+        <address>
+            <strong>SwedeWeb UF</strong><br>
+            Alfred Lucas & Joel<br>
+            Adressgatan 123, 123 45 Staden<br>
+            E-post: <a href="alfred.amandusson17@gmail.com">info@swedeweb.com</a><br>
+            Telefon: +46 079 348 30 40
+        </address>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 SwedeWeb UF. Alla rättigheter förbehållna.</p>
+    </footer>
+
 </body>
+
 </html>
