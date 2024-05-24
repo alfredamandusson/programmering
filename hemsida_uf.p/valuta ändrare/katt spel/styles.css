@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #dbd3d3;
+    margin: 0;
+    padding: 35px;
+}
+
+#cat-container {
+    margin-top: 10px;
+}
+
+#cat-image {
+    max-width: 50%;
+    height: auto;
+    border: 2px solid #35334a;
+    border-radius: 50px;
+}
